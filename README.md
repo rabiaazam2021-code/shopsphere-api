@@ -164,6 +164,8 @@ GET /api/products?page=1&limit=5&search=phone&minPrice=100&maxPrice=1000&sort=-p
 
 ## Screenshots
 
+
+
 ### Authentication
 ![Register](screenshots/01-register.png)
 ![Login](screenshots/02-login.png)
@@ -172,7 +174,6 @@ GET /api/products?page=1&limit=5&search=phone&minPrice=100&maxPrice=1000&sort=-p
 ### Categories
 ![Customer forbidden (403)](screenshots/04-category-forbidden.png)
 ![Create category (admin)](screenshots/05-category-create.png)
-![List categories](screenshots/05b-category-list.png)
 ![Delete category with products (409)](screenshots/12-category-delete-error.png)
 
 ### Products
@@ -187,9 +188,7 @@ GET /api/products?page=1&limit=5&search=phone&minPrice=100&maxPrice=1000&sort=-p
 
 ### Swagger Docs
 ![Swagger](screenshots/13-swagger.png)
-![Swagger try it out](screenshots/14-swagger-try.png)
-![Swagger validation](screenshots/15-swagger-validation.png)
-![Swagger login](screenshots/16-swagger-login.png)
+![Swagger login](screenshots/14-swagger-login.png)
 
 ## Author
 
